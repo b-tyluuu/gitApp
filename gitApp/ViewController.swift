@@ -16,6 +16,16 @@ class ViewController: UIViewController {
             /*git hub
              git lesson
              */
+        //Code 2 new
+        /*
+         some codes new
+         functions new
+         
+        closures new
+         integers new
+         
+         */
+        //AppStore 1
     }
 
 
